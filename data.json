@@ -1,0 +1,225 @@
+[
+  {
+      "equipo": "Atlético Nacional", 
+      "pts": 16,
+      "pj": 8,
+      "g": 5,
+      "e": 1,
+      "p": 2,
+      "gf": 12,
+      "gc": 7,
+      "dg": 5
+  },
+  {
+      "equipo": "Millonarios",
+      "pts": 10,
+      "pj": 7,
+      "g": 3,
+      "e": 1,
+      "p": 3,
+      "gf": 9,
+      "gc": 7,
+      "dg": 2
+  },
+  {
+    "equipo": "Once Caldas", 
+    "pts": 16,
+    "pj": 7,
+    "g": 5,
+    "e": 1,
+    "p": 1,
+    "gf": 10,
+    "gc": 5,
+    "dg": 5
+},
+{
+  "equipo": "Fortaleza", 
+  "pts": 15,
+  "pj": 8,
+  "g": 4,
+  "e": 3,
+  "p": 1,
+  "gf": 12,
+  "gc": 8,
+  "dg": 4
+},
+{
+  "equipo": "Tolima", 
+  "pts": 13,
+  "pj": 7,
+  "g": 4,
+  "e": 1,
+  "p": 2,
+  "gf": 12,
+  "gc": 5,
+  "dg": 7
+},
+{
+  "equipo": "Santafe", 
+  "pts": 13,
+  "pj": 6,
+  "g": 4,
+  "e": 1,
+  "p": 1,
+  "gf": 8,
+  "gc": 4,
+  "dg": 4
+},
+{
+  "equipo": "Junior", 
+  "pts": 12,
+  "pj": 8,
+  "g": 3,
+  "e": 3,
+  "p": 2,
+  "gf": 8,
+  "gc": 7,
+  "dg": 1
+},
+{
+  "equipo": "La Equidad", 
+  "pts": 12,
+  "pj": 8,
+  "g": 3,
+  "e": 3,
+  "p": 2,
+  "gf": 6,
+  "gc": 8,
+  "dg": -2
+},
+{
+  "equipo": "Águilas Doradas", 
+  "pts": 11,
+  "pj": 7,
+  "g": 3,
+  "e": 2,
+  "p": 2,
+  "gf": 8,
+  "gc": 7,
+  "dg": 1
+},
+{
+  "equipo": "América", 
+  "pts": 10,
+  "pj": 5,
+  "g": 3,
+  "e": 1,
+  "p": 1,
+  "gf": 10,
+  "gc": 5,
+  "dg": 5
+},
+{
+  "equipo": "Alianza", 
+  "pts": 8,
+  "pj": 6,
+  "g": 2,
+  "e": 2,
+  "p": 2,
+  "gf": 9,
+  "gc": 7,
+  "dg": 2
+},
+{
+  "equipo": "Pasto", 
+  "pts": 7,
+  "pj": 6,
+  "g": 2,
+  "e": 1,
+  "p": 3,
+  "gf": 6,
+  "gc": 6,
+  "dg": 0
+},
+{
+  "equipo": "Deportivo Pereira", 
+  "pts": 7,
+  "pj": 5,
+  "g": 2,
+  "e": 1,
+  "p": 2,
+  "gf": 4,
+  "gc": 4,
+  "dg": 0
+}
+,{
+  "equipo": "Medellin", 
+  "pts": 7,
+  "pj": 6,
+  "g": 1,
+  "e": 4,
+  "p": 1,
+  "gf": 5,
+  "gc": 6,
+  "dg": -1
+},
+{
+  "equipo": "Bucaramanga", 
+  "pts": 7,
+  "pj": 8,
+  "g": 2,
+  "e": 1,
+  "p": 5,
+  "gf": 5,
+  "gc": 9,
+  "dg": -4
+},
+{
+  "equipo": "Deportivo Cali", 
+  "pts": 6,
+  "pj": 6,
+  "g": 2,
+  "e": 0,
+  "p": 4,
+  "gf": 5,
+  "gc": 8,
+  "dg": -3
+},
+{
+  "equipo": "Patriotas", 
+  "pts": 6,
+  "pj": 8,
+  "g": 1,
+  "e": 3,
+  "p": 4,
+  "gf": 7,
+  "gc": 13,
+  "dg": -6
+},
+{
+  "equipo": "Envigado", 
+  "pts": 5,
+  "pj": 6,
+  "g": 1,
+  "e": 2,
+  "p": 3,
+  "gf": 3,
+  "gc": 8,
+  "dg": -5
+},
+{
+  "equipo": "Boyacá Chicó", 
+  "pts": 5,
+  "pj": 8,
+  "g": 1,
+  "e": 2,
+  "p": 5,
+  "gf": 4,
+  "gc": 11,
+  "dg": -7
+},
+{
+  "equipo": "Boyacá Chicó", 
+  "pts": 3,
+  "pj": 8,
+  "g": 0,
+  "e": 3,
+  "p": 5,
+  "gf": 0,
+  "gc": 8,
+  "dg": -8
+}
+
+
+
+]
