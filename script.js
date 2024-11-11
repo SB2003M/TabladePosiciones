@@ -43,9 +43,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     let isValid = false;
                     let value;
 
-                    // Continua solicitando hasta que el valor sea válido
+                    // Continúa solicitando hasta que el valor sea válido
                     while (!isValid) {
                         value = prompt(`Ingresa nuevo valor para ${field.toUpperCase()} (entre ${min} y ${max}):`, item[field]);
+
+                        // Verificar si el usuario cancela
+                        if (value === null) return null; // Si el valor es null, el usuario canceló
+
                         value = parseInt(value);
 
                         if (!isNaN(value) && value >= min && value <= max) {
@@ -59,12 +63,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Lista de campos con sus restricciones
                 item.pts = getValidInput('pts', 0, 114);
+                if (item.pts === null) return; // Si el usuario canceló, salimos
+
                 item.pj = getValidInput('pj', 0, 38);
+                if (item.pj === null) return;
+
                 item.g = getValidInput('g', 0, 38);
+                if (item.g === null) return;
+
                 item.e = getValidInput('e', 0, 38);
+                if (item.e === null) return;
+
                 item.p = getValidInput('p', 0, 38);
+                if (item.p === null) return;
+
                 item.gf = getValidInput('gf', 0, Infinity);
+                if (item.gf === null) return;
+
                 item.gc = getValidInput('gc', 0, Infinity);
+                if (item.gc === null) return;
 
                 // Recalcula la diferencia de goles
                 item.dg = item.gf - item.gc;
